@@ -1,0 +1,29 @@
+:root {
+}
+
+.GameOverLabel {
+    background-image: none;
+    -unity-font-definition: url("project://database/Assets/Fonts/PixelPurl.ttf?fileID=12800000&guid=fa9739aae222e9149a71f9ca8ecbb5ae&type=3#PixelPurl");
+    -unity-background-image-tint-color: rgb(255, 0, 0);
+    color: rgb(113, 0, 0);
+    font-size: 200%;
+}
+
+.button {
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/Fonts/PixelPurl.ttf?fileID=12800000&guid=fa9739aae222e9149a71f9ca8ecbb5ae&type=3#PixelPurl");
+    color: rgb(255, 255, 255);
+    font-size: 60%;
+    width: auto;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    transition-duration: 0.3s;
+}
+
+.button:hover {
+    color: rgb(182, 182, 182);
+    font-size: 65%;
+}

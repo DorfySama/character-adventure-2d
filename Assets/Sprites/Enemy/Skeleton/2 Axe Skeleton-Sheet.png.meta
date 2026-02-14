@@ -1,0 +1,986 @@
+fileFormatVersion: 2
+guid: 230cb99786d9ffa41b15f996394307f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -215954546926315957
+    second: 2 Axe Skeleton-Sheet_0
+  - first:
+      213: -3008415545467782720
+    second: 2 Axe Skeleton-Sheet_1
+  - first:
+      213: 7383399634689041367
+    second: 2 Axe Skeleton-Sheet_2
+  - first:
+      213: -4578575928967886575
+    second: 2 Axe Skeleton-Sheet_3
+  - first:
+      213: -2753552880288029642
+    second: 2 Axe Skeleton-Sheet_4
+  - first:
+      213: -3459968746640359748
+    second: 2 Axe Skeleton-Sheet_5
+  - first:
+      213: -2219752133989548838
+    second: 2 Axe Skeleton-Sheet_6
+  - first:
+      213: 6679417769382254999
+    second: 2 Axe Skeleton-Sheet_7
+  - first:
+      213: 1747337819929951346
+    second: 2 Axe Skeleton-Sheet_8
+  - first:
+      213: 5980555045087354408
+    second: 2 Axe Skeleton-Sheet_9
+  - first:
+      213: -1552894295565856759
+    second: 2 Axe Skeleton-Sheet_10
+  - first:
+      213: 808406574944588209
+    second: 2 Axe Skeleton-Sheet_11
+  - first:
+      213: 7169742069115275993
+    second: 2 Axe Skeleton-Sheet_12
+  - first:
+      213: -7998011679883253802
+    second: 2 Axe Skeleton-Sheet_13
+  - first:
+      213: -7519888937959956357
+    second: 2 Axe Skeleton-Sheet_14
+  - first:
+      213: -1855214665897055128
+    second: 2 Axe Skeleton-Sheet_15
+  - first:
+      213: -6623100301854258175
+    second: 2 Axe Skeleton-Sheet_16
+  - first:
+      213: -2123339459068001092
+    second: 2 Axe Skeleton-Sheet_17
+  - first:
+      213: -4548321412015226498
+    second: 2 Axe Skeleton-Sheet_18
+  - first:
+      213: -8592559614767177719
+    second: 2 Axe Skeleton-Sheet_19
+  - first:
+      213: -2524018988948321338
+    second: 2 Axe Skeleton-Sheet_20
+  - first:
+      213: -3610659318226768539
+    second: 2 Axe Skeleton-Sheet_21
+  - first:
+      213: -6700483791316337894
+    second: 2 Axe Skeleton-Sheet_22
+  - first:
+      213: -650887640637157353
+    second: 2 Axe Skeleton-Sheet_23
+  - first:
+      213: -2495594636169978697
+    second: 2 Axe Skeleton-Sheet_24
+  - first:
+      213: 2216268181586431446
+    second: 2 Axe Skeleton-Sheet_25
+  - first:
+      213: 8145065599083480901
+    second: 2 Axe Skeleton-Sheet_26
+  - first:
+      213: -2419110781294989751
+    second: 2 Axe Skeleton-Sheet_27
+  - first:
+      213: 1800698668838443763
+    second: 2 Axe Skeleton-Sheet_28
+  - first:
+      213: -5068449469262068450
+    second: 2 Axe Skeleton-Sheet_29
+  - first:
+      213: 5477325076145477925
+    second: 2 Axe Skeleton-Sheet_30
+  - first:
+      213: 3882153912006661791
+    second: 2 Axe Skeleton-Sheet_31
+  - first:
+      213: -3796757174580180022
+    second: 2 Axe Skeleton-Sheet_32
+  - first:
+      213: -8451218520492380710
+    second: 2 Axe Skeleton-Sheet_33
+  - first:
+      213: -5819305405761306408
+    second: 2 Axe Skeleton-Sheet_34
+  - first:
+      213: 6603421154558496497
+    second: 2 Axe Skeleton-Sheet_35
+  - first:
+      213: 6310134918366112543
+    second: 2 Axe Skeleton-Sheet_36
+  - first:
+      213: -7398162087289795147
+    second: 2 Axe Skeleton-Sheet_37
+  - first:
+      213: 5009458143231732646
+    second: 2 Axe Skeleton-Sheet_38
+  - first:
+      213: 1150130190213879251
+    second: 2 Axe Skeleton-Sheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4693d6db76c00df0800000000000000
+      internalID: -215954546926315957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c931ab2006ff36d0800000000000000
+      internalID: -3008415545467782720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3a36c49da177660800000000000000
+      internalID: 7383399634689041367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11907b07371a570c0800000000000000
+      internalID: -4578575928967886575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ad2c8e3a69c9d0800000000000000
+      internalID: -2753552880288029642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe3c82b1c8bbffc0800000000000000
+      internalID: -3459968746640359748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3324e13bd131e0800000000000000
+      internalID: -2219752133989548838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799167a721f02bc50800000000000000
+      internalID: 6679417769382254999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb78b4d7acf3810800000000000000
+      internalID: 1747337819929951346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e1a1e80233ff250800000000000000
+      internalID: 5980555045087354408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001113add2037ae0800000000000000
+      internalID: -1552894295565856759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b199ad2f79083b00800000000000000
+      internalID: 808406574944588209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4ac8cc6a008360800000000000000
+      internalID: 7169742069115275993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7222f90ca510190800000000000000
+      internalID: -7998011679883253802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e18e5adcf3a790800000000000000
+      internalID: -7519888937959956357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c6c193714f046e0800000000000000
+      internalID: -1855214665897055128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cc13cbd550614a0800000000000000
+      internalID: -6623100301854258175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb48eac03026882e0800000000000000
+      internalID: -2123339459068001092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71878816cd11e0c0800000000000000
+      internalID: -4548321412015226498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006f624e8811c880800000000000000
+      internalID: -8592559614767177719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb05653a12e8fcd0800000000000000
+      internalID: -2524018988948321338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da32cea7c54edc0800000000000000
+      internalID: -3610659318226768539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb3531e791303a0800000000000000
+      internalID: -6700483791316337894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710512fa32597f6f0800000000000000
+      internalID: -650887640637157353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcd7bf86eddd5dd0800000000000000
+      internalID: -2495594636169978697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc57a3b24c1ce10800000000000000
+      internalID: 2216268181586431446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54700a90206190170800000000000000
+      internalID: 8145065599083480901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e2898bf879d6ed0800000000000000
+      internalID: -2419110781294989751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa52a716ed5df810800000000000000
+      internalID: 1800698668838443763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e150e9ebf0049a9b0800000000000000
+      internalID: -5068449469262068450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5299dfaf22e530c40800000000000000
+      internalID: 5477325076145477925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Axe Skeleton-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96dc881a6e20e530800000000000000
+      internalID: 3882153912006661791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 190e1f9a633f9b945be20bbf07445b95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2 Axe Skeleton-Sheet_0: -215954546926315957
+      2 Axe Skeleton-Sheet_1: -3008415545467782720
+      2 Axe Skeleton-Sheet_10: -1552894295565856759
+      2 Axe Skeleton-Sheet_11: 808406574944588209
+      2 Axe Skeleton-Sheet_12: 7169742069115275993
+      2 Axe Skeleton-Sheet_13: -7998011679883253802
+      2 Axe Skeleton-Sheet_14: -7519888937959956357
+      2 Axe Skeleton-Sheet_15: -1855214665897055128
+      2 Axe Skeleton-Sheet_16: -6623100301854258175
+      2 Axe Skeleton-Sheet_17: -2123339459068001092
+      2 Axe Skeleton-Sheet_18: -4548321412015226498
+      2 Axe Skeleton-Sheet_19: -8592559614767177719
+      2 Axe Skeleton-Sheet_2: 7383399634689041367
+      2 Axe Skeleton-Sheet_20: -2524018988948321338
+      2 Axe Skeleton-Sheet_21: -3610659318226768539
+      2 Axe Skeleton-Sheet_22: -6700483791316337894
+      2 Axe Skeleton-Sheet_23: -650887640637157353
+      2 Axe Skeleton-Sheet_24: -2495594636169978697
+      2 Axe Skeleton-Sheet_25: 2216268181586431446
+      2 Axe Skeleton-Sheet_26: 8145065599083480901
+      2 Axe Skeleton-Sheet_27: -2419110781294989751
+      2 Axe Skeleton-Sheet_28: 1800698668838443763
+      2 Axe Skeleton-Sheet_29: -5068449469262068450
+      2 Axe Skeleton-Sheet_3: -4578575928967886575
+      2 Axe Skeleton-Sheet_30: 5477325076145477925
+      2 Axe Skeleton-Sheet_31: 3882153912006661791
+      2 Axe Skeleton-Sheet_4: -2753552880288029642
+      2 Axe Skeleton-Sheet_5: -3459968746640359748
+      2 Axe Skeleton-Sheet_6: -2219752133989548838
+      2 Axe Skeleton-Sheet_7: 6679417769382254999
+      2 Axe Skeleton-Sheet_8: 1747337819929951346
+      2 Axe Skeleton-Sheet_9: 5980555045087354408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

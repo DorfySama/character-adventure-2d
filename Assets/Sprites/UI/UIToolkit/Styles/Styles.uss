@@ -1,0 +1,23 @@
+:root {
+}
+
+.button {
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/Sprites/UI/Sprites/Inventory.png?fileID=739905185230883310&guid=3ead7c8f1e338614693d6b07c3897a1b&type=3#Inventory_0");
+    -unity-background-image-tint-color: rgb(182, 182, 182);
+    transition-duration: 0.3s;
+    width: 73%;
+    height: 54%;
+    flex-shrink: 0;
+}
+
+.button:hover {
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/Sprites/UI/Sprites/Inventory.png?fileID=739905185230883310&guid=3ead7c8f1e338614693d6b07c3897a1b&type=3#Inventory_0");
+    -unity-background-image-tint-color: rgb(107, 105, 105);
+    scale: 1.1 1.1;
+}
+
+.healthbar-size {
+    width: 345px;
+}
